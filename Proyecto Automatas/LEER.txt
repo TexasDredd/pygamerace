@@ -1,0 +1,3 @@
+Para la ejecucion del programa se necesita lo siguiente:
+-Python 3 o superior instalado o un enviroment en la nube que lo contenga
+-Pygame instalado o un enviroment en la nube que lo tenga instalado
